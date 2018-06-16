@@ -25,7 +25,7 @@ import { FirebaseModule } from '../pages/firebase/firebase.module';
 import { PlaceholderModule } from '../pages/placeholder/placeholder.module';
 
 import { MyApp } from './app.component';
-
+ 
 @NgModule({
   declarations: [
     MyApp
